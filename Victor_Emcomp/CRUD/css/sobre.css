@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f2f2f2;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #666;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+h2 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.fundadores {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.fundadores img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.custom-button {
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+    background-color: #6b726c;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+    
+  .custom-button:hover {
+    background-color: #8d918d;
+  }
